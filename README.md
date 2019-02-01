@@ -1,6 +1,6 @@
-#Week One Level One Challenge: Variation on the Dice Game of Pig
+# Week One Level One Challenge: Variation on the Dice Game of Pig
 
-##A variation of the dice game Pig
+## A variation of the dice game Pig
 
 Create a program that will randomly select two numbers from 1-6 (like rolling two dice). Show the dice rolls. You should also show the running score.
 
